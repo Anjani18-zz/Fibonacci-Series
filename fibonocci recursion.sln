@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonocci recursion", "fibonocci recursion\fibonocci recursion.csproj", "{AA31C467-D3F0-477F-B0E1-002C8ED49860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA31C467-D3F0-477F-B0E1-002C8ED49860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA31C467-D3F0-477F-B0E1-002C8ED49860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA31C467-D3F0-477F-B0E1-002C8ED49860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA31C467-D3F0-477F-B0E1-002C8ED49860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1C28318-819E-4412-8770-B8151C86000C}
+	EndGlobalSection
+EndGlobal
